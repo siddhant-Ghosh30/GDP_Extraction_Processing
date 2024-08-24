@@ -1,5 +1,5 @@
 # GDP_Extraction_Processing
-extracting data from a website using webscraping and reqeust APIs process it using Pandas and Numpy libraries.
+extracting data from a website using webscraping and request APIs process it using Pandas and Numpy libraries.
 
 Practice Projet: GDP extraction and processing
 course: Python for Data Science, AI and Development (IBM)
